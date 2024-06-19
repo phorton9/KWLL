@@ -1,1 +1,2 @@
 # KWLL
+Herein, we include the code for the paper "The Kiefer-Weiss-Lorden-Lai Framework for Sequential Evaluation of Efficacy and Futility with Application to Correlation Study". All simulations are conducted in R with limited additional libraries needed (ggplot2, MASS). The purpose of the code is for demonstration and replicability. It does not currently contain more practical features that would solve for the thresholds $a$ and $b$ for a given problem. 
